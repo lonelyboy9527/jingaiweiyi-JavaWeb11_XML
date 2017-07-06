@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hello>
+	<a>
+	</a>
+	大家好!
+	<b/>
+	<c>	
+		<![CDATA[
+			<!-- 任意内容 -->
+		]]>
+	</c>
+	
+	
+</hello>
